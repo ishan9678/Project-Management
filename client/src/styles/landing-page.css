@@ -1,0 +1,128 @@
+@font-face {
+  font-family: "Grayfel-Normal-Medium";
+  src: url("../font/Grayfel-Normal-Medium.otf") format("opentype");
+  font-weight: normal;
+  font-style: normal;
+}
+
+/* Navbar css */
+
+body {
+  background-color: #f1f1f1;
+  font-family: "Grayfel-Normal-Medium", sans-serif;
+}
+
+.navbar {
+  margin-top: 10px;
+}
+
+.name {
+  margin-left: 30px;
+}
+
+.nav-item {
+  margin: 10px 0 10px 20px;
+}
+
+.sign-up {
+  border: 1px solid black;
+  margin-right: 30px;
+}
+
+/* Content css */
+
+.container {
+  margin-top: 40px;
+}
+
+.tag-line {
+  font-size: 70px;
+}
+
+.content-container {
+  max-width: 20%;
+}
+
+.content {
+  margin-top: 25px;
+  font-size: 17px;
+}
+
+.btn {
+  border-radius: 0;
+  margin-top: 10px;
+  height: 50px;
+}
+
+/* image css */
+
+.illustrations {
+  margin-top: 70px;
+}
+
+.image {
+  width: 100%;
+}
+
+.img-title {
+  text-align: center;
+}
+
+/* sign up  */
+
+.signup-img {
+  margin-top: 40px;
+}
+
+.form-container {
+  margin-top: 40px;
+}
+
+label {
+  color: grey;
+}
+
+.form-control {
+  border: none;
+  border-bottom: 1px solid #ccc;
+  padding: 0;
+  padding: 10px 0 10px 0;
+  background-color: transparent;
+  border-radius: 0;
+}
+
+.form-control:focus {
+  border-color: #ccc;
+  box-shadow: none;
+  background-color: transparent;
+}
+
+.signup-form {
+  margin-top: 40px;
+}
+
+.signup-button {
+  margin-top: 20px;
+}
+
+.login-redirect {
+  margin-top: 20px;
+}
+
+.link {
+  color: #0000ee;
+  cursor: pointer;
+}
+
+.login-link {
+  text-decoration: none;
+  color: #fff;
+}
+
+.login-form {
+  margin-top: 40px;
+}
+
+.login-heading {
+  margin-top: 80px;
+}
