@@ -1,4 +1,4 @@
-# Project Management Web Application
+# Project Management 
 
 Welcome to the Project Management Web Application! This is a comprehensive project management platform built with React that enables users to efficiently manage projects, create tasks, track progress, and set deadlines. It provides user authentication using Passport.js and offers a user-friendly interface for creating and managing projects and tasks.
 
