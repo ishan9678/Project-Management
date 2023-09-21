@@ -78,11 +78,11 @@ Welcome to the Project Management Web Application! This is a comprehensive proje
 
 Contributions are welcome! If you'd like to contribute to this project, please follow these steps:
 
-Fork the project.
-Create a new branch for your feature or bug fix.
-Make your changes and commit them.
-Push your changes to your forked repository.
-Submit a pull request to the main project repository.
+-Fork the project.
+-Create a new branch for your feature or bug fix.
+-Make your changes and commit them.
+-Push your changes to your forked repository.
+-Submit a pull request to the main project repository.
 
 
 
